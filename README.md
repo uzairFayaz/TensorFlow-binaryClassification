@@ -92,5 +92,5 @@ print((predictions > 0.5).astype(int))
 After training for 5 epochs, the model achieves an accuracy of around **85%** on the test set.
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available.
 
